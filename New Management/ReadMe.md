@@ -50,6 +50,8 @@ Then, I used this website called [MyEtherWallet](https://www.myetherwallet.com/w
 ![Smart Contract](images/interaction.png)
 
 We got the address from the netcat command, but what about this "ABI" thing? Well going back to Remix IDE, when you compile the provided solidity file you get these two handy buttons highlighted in green.
+
+
 ![yay, ABI](images/remix_abi.png)
 
 A quick copy paste and click on the interact button, and voila!
