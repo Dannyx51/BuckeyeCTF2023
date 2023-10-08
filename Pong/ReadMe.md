@@ -100,7 +100,7 @@ A quick download and a check of our png with generic 128x128 dimensions gave thi
 
 ![pngcheck saving the day](images/pngchecksavestheday.png)
 
-And now we have the correct CRC value to insert at the end.
+And now we have a way to find the correct CRC value to insert at the end.
 
 From here it was just us trying a couple different dimensions, recalculating CRC to match until we got the correct combination of all properties.
 
